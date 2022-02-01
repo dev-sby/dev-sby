@@ -1,6 +1,6 @@
 - 👻 Hi, I’m Subin Yoon.
 - 👀 I’m interested in CHOONSIK 😽.
-- ☁️ I’m currently learning data analysis methods & techniques.  
+- ☁️ I’m currently learning _______ .  
 
 <!---
 sese3211/sese3211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
